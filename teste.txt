@@ -1,0 +1,8 @@
+Justificativa:
+Resolvi fazer este script, porque perdi o enunciado da questão 
+quando fui selecionar a pasta, me enganei e acabei mandando um
+diretório vazio.
+Como li rapidamente o enunciado da questão, lembro-me de pouca coisa.
+Mas lembro que o desafio era algo relacionado a anagramas, que neste
+contexto, a meu ver, não teria nenhuma utilidade prática, por isto
+resolvi criar algo com mais usabilidade, espero que aceitem meu script.
